@@ -2,7 +2,7 @@
 Data Analysis Project on Israeli Protests on Twitter
 
 This project focuses on analyzing public opinion on the ongoing protests in Israel using Twitter data. 
-Twitter is a social network and an important source of real-time information it can be used to gauge public sentiment on a variety of topics. The protests in Israel have been ongoing for a number of weeks and relate to the change/reform/revolution that the government led by Benyamin Netanyahu is promoting, 
+Twitter is a social network and an important source of real-time information it can be used to gauge public sentiment on a variety of topics. The protests in Israel have been ongoing for a number of weeks and relate to the change/reform/revolution in the justice system that the government led by Benyamin Netanyahu is promoting, 
 which causes great controversy among the Israeli public.
 
 To gather Twitter data, I used Tweepy, a Python library for accessing the Twitter API. 
