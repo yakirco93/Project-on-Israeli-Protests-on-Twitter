@@ -13,7 +13,4 @@ Next, I used sentiment analysis to determine the overall sentiment of each tweet
 Sentiment analysis is a natural language processing (NLP) technique that involves using machine learning algorithms to identify and classify the sentiment expressed in a piece of text. 
 In this project, I used the VADER (Valence Aware Dictionary and Sentiment Reasoner) sentiment analysis tool, which is specifically designed for social media text and is trained on a large corpus of social media data.
 
-Analyzing the sentiment of tweets related to the ongoing protests in Israel provides us with valuable insights into public opinion on this critical issue. 
-The sentiment analysis allows us to understand whether people are expressing positive, negative, or neutral emotions toward the protests and specific issues. 
-The sentiment analysis can also help us understand the underlying causes of the protests, such as government policies or social injustice, and aid in developing long-term solutions to these issues. 
-Overall, the sentiment analysis of Twitter data is a powerful tool for gaining insights into public opinion on the ongoing protests in Israel.
+Gaining valuable insights into public opinion on the ongoing protests in Israel can be achieved through sentiment analysis of related tweets. This analysis enables us to comprehend whether individuals express positive, negative, or neutral emotions towards the protests and specific concerns, with scores ranging from -1 (negative) to 1 (positive). Overall, analyzing Twitter data sentiment is an effective method of comprehending public sentiment on the ongoing protests in Israel.
